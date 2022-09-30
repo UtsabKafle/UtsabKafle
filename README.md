@@ -1,6 +1,6 @@
  👋 Hi, I’m @UtsabKafle
 - 👀 Code, Read & Run
-- 🌱 I’m currently learning DS.
+- 🐍 python.
 - 📫 mail: utshubkaphle@gmail.com
 
 <!---
