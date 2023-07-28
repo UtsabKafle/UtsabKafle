@@ -1,5 +1,5 @@
  👋 Hi, I’m @UtsabKafle
-- 👀 Code, Read & Run
+- 👀 work, work and work
 - 🐍 python.
 - 📫 mail: utshubkaphle@gmail.com
 
