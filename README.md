@@ -1,59 +1,53 @@
 # 👋 Hello, I'm Utsab Kafle!
 
-🎓 BCA Student from Nepal  
-🏫 Studying at Model Campus Damak
-💡 Founder & Instructor at [Geekbind Institute](https://github.com/Geekbind)  
-🔌 Passionate about IoT, AI, and making tech education accessible  
-🌱 Currently working on: AI music generator, IoT projects, and teaching underserved communities  
-📚 A curious learner, teacher, and dreamer — driven by real-world impact
+🎓 BCA Student at Model Campus Damak (5th Semester)  
+💡 Founder & Instructor at [Geekbind Institute](https://geekbind.com.np)  
+👨‍🏫 Teaching Computer Engineering at Shree Bhanu Secondary School  
+💻 Lead Web Developer(Freelance) at Lami Nepal Pvt. Ltd  
+🔌 Passionate about AI, IoT, and democratizing tech education  
+🌱 Currently working on: [Nepal AI Academy](https://nepalaicademy.com), Geekbind Institute and [Lami Nepal Pvt Ltd](https://laminepal.com.np)
+📚 Teacher, Developer, Entrepreneur
 
 ---
 
 ## 💫 About Me
 
-I'm a passionate educator and student trying to bridge the gap between technology and those without access.  
-I run tech workshops in rural Nepal, focusing on practical skills like IoT, web dev, and AI.  
-Always open to learning, building, and collaborating with fellow creators.  
+I'm a computer science student and passionate educator from Jhapa, Nepal, on a mission to make technology accessible. Alongside my BCA studies, I:
+- Teach Computer Engineering at my alma mater (Shree Bhanu School)
+- Manage [Geekbind Institute](https://geekbind.com.np) providing various tech courses
+- Develop web applications for [Lami Nepal](https://laminepal.com.np)
+- Run workshops on AI/IoT for High School Students
+- Constantly explore AI implementations
+
+My journey includes both successful ventures and learning experiences from failed startups. I believe in learning through building and sharing knowledge!
 
 ---
 
 ## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utsabkafle)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/utsab.kafle.503)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utsab-kafle)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/utsabkafle)  
 📧 Email: utsabkafle@gmail.com  
+💻 GitHub: [github.com/utsabkafle](https://github.com/utsabkafle)
 
 ---
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ---
 
 ## 🛠️ Noteworthy Projects
 
-- 🔬 [AI Diabetic Retinopathy Detector](https://github.com/utsabkafle/diabetic-retinopathy-ai)
-- 🎶 [Music Generator with TensorFlow](https://github.com/utsabkafle/music-ai)
-- 📡 [IoT Projects for Students](https://github.com/utsabkafle/iot-workshop)
-- 🚗 [Obstacle Preventing Car with Ultrasonic Sensor](#)
-- 🛢 [Smoke Detection System for Villages](#)
+- 🎓 [Nepal AI Academy](https://nepalaicademy.com) - Teaching neural networks from scratch
+- 🔬 [Unotes](https://github.com/utsabkafle/unotes) - Python library to prepare notes
+- 📡 [AI Chat](https://github.com/UtsabKafle/ai-chat-app) - Chat application to interact with premium models through openly available APIs.
+- 💡 [Coder](https://github.com/UtsabKafle/Coder) - A free web-based alternative to Cursor, windsurf, lovable and Copilot.
+- 📱 [Freefund](https://github.com/UtsabKafle/freefund_mobile) - Donation Collection App
 
 ---
 
