@@ -51,6 +51,7 @@ My journey includes both successful ventures and learning experiences from faile
 - 📡 [AI Chat](https://github.com/UtsabKafle/ai-chat-app) - Chat application to interact with premium models through openly available APIs.
 - 💡 [Coder](https://github.com/UtsabKafle/Coder) - A free web-based alternative to Cursor, windsurf, lovable and Copilot.
 - 📱 [Freefund](https://github.com/UtsabKafle/freefund_mobile) - Donation Collection App
+- 💻 [PostMe](https://github.com/UtsabKafle/postme) - Tried Automating facebook posts creation using Python and Pillow
 
 ---
 
