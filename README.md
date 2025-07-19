@@ -5,7 +5,7 @@
 👨‍🏫 Teaching Computer Engineering at Shree Bhanu Secondary School  
 💻 Lead Web Developer(Freelance) at Lami Nepal Pvt. Ltd  
 🔌 Passionate about AI, IoT, and democratizing tech education  
-🌱 Currently working on: [Nepal AI Academy](https://nepalaicademy.com), Geekbind Institute and [Lami Nepal Pvt Ltd](https://laminepal.com.np)
+🌱 Currently working on: [Nepal AI Academy](https://nepalaicademy.com), Geekbind Institute and [Lami Nepal Pvt Ltd](https://laminepal.com.np) 
 📚 Teacher, Developer, Entrepreneur
 
 ---
